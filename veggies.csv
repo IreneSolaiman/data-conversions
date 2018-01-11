@@ -1,9 +1,9 @@
-name,length
-eggplant,8
-tomato,6
-corn,4
-zucchini,8
-artichoke,9
-butternut squash,16
-mushroom,8
-broccoli,8
+name,color,length
+eggplant,purple,8
+tomato,red,6
+corn,yellow,4
+zucchini,green,8
+artichoke,green,9
+butternut squash,yellow,16
+mushroom,brown,8
+broccoli,green,8
