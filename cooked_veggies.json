@@ -1,0 +1,42 @@
+[
+  {
+    "color": "purple", 
+    "length": "8", 
+    "name": "eggplant"
+  }, 
+  {
+    "color": "red", 
+    "length": "6", 
+    "name": "tomato"
+  }, 
+  {
+    "color": "yellow", 
+    "length": "4", 
+    "name": "corn"
+  }, 
+  {
+    "color": "green", 
+    "length": "8", 
+    "name": "zucchini"
+  }, 
+  {
+    "color": "green", 
+    "length": "9", 
+    "name": "artichoke"
+  }, 
+  {
+    "color": "yellow", 
+    "length": "16", 
+    "name": "butternut squash"
+  }, 
+  {
+    "color": "brown", 
+    "length": "8", 
+    "name": "mushroom"
+  }, 
+  {
+    "color": "green", 
+    "length": "8", 
+    "name": "broccoli"
+  }
+]
